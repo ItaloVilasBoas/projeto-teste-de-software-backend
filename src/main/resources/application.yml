@@ -16,5 +16,5 @@ hibernate:
 rest:
     tmdb:
         url: ${tmdb_url:https://api.themoviedb.org/3}
-        token: ${tmdb_token:eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxNzc0Zjc1ZDI5MDFmNWY0YzQxZGIyMjE1OGE0OTlmNiIsInN1YiI6IjY1NTgwNWE4ZWE4NGM3MTA5NmRlNjY5MSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.OTSmovVYpYKJMydsxtRGs5I6JnSMCp6qMNjcYLyLedA}
+        token: ${tmdb_token:TOKEN_AQUI}
         key: ${tmdb_key:1774f75d2901f5f4c41db22158a499f6}
